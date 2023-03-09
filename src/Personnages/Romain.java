@@ -33,8 +33,8 @@ public class Romain {
 	}
 
 	public static void main(String[] args) {
-		Romain romain = new Romain("Romain", 8);
-		romain.parler("Gain");
-		romain.recevoirCoup(5);
+		Romain minus = new Romain("Minus", 8);
+		minus.parler("Gain");
+		minus.recevoirCoup(5);
 	}
 }
